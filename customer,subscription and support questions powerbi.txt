@@ -1,0 +1,20 @@
+Customer Overview Section:
+
+1) What is the gender distribution of customers? 
+2) What is the age distribution across customers?
+3) What is the average tenure of customers?
+4) How does tenure vary by subscription type?
+
+Subscription and Payment Section:
+
+1) What is the distribution of customers across different subscription types?
+2) Which subscription type contributes the most to total spend?
+3) How many customers have delayed payments? 
+4) Is there a trend in payment delays based on contract length?
+
+Usage and Support Section:
+
+1) What is the average usage frequency of customers?
+2) Which group of customers (by age, subscription type, or contract length) has the highest usage frequency?
+3) Which customers make the most support calls?
+4) Is there a relationship between support calls and payment delays?
